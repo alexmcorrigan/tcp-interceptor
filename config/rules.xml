@@ -1,0 +1,9 @@
+<rules>
+    <rule>
+        <conditions>
+            <condition comparator="=" value="DROPME" />
+            <condition comparator="!=" value="43=Y" />
+        </conditions>
+        <action do="drop" />
+    </rule>
+</rules>
